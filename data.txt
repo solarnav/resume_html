@@ -6,31 +6,36 @@ AI, Machine Learning, Bioinformatics, Computational Biology, Genomics, Transcrip
 EXPERIENCE
 Postdoctoral Research Fellow, 2024-Present
 UTHealth, Houston, TX
-
+Trained multiple machine learning models such as KAN and MLP for bioinformatics applications
 Supervised and guided 2 PhD candidates through their research
+
 
 
 Postdoctoral Associate, 2023-2024
 University of Minnesota, Minneapolis, MN
 Submitted 2 grant applications to the NSF and SBIR respectively
+Designed a multi-omics cellular pathway visualization and analysis tool for cancer diagnosis in R
+
 
 
 
 Bioinformatics Intern, 2022
 Mayo Clinic, Rochester, MN
 Wrote 3 scripts in R and python to parse proteomic data
-Collaborated in weekly ex-vivo meetings with oncologists and bioinformaticians 
+Collaborated in weekly ex-vivo meetings with oncologists and bioinformaticians
+
 
 
 Research Assistant, 2019-2023
 University of Minnesota, Minneapolis, MN
+Conducted original research 
 
 
 Teaching Assistant, 2019
 University of Minnesota, Minneapolis, MN
 Gave 4 quizzes consisting of self-made questions over the semester
 Graded 100 final exams over 1 weekend during finals week
-Hosted weekly office hours to guide and teach undergraduate students 
+Hosted weekly office hours to teach and assist undergraduate statistics students 
 
 Community Advisor, 2017-2019
 University of Minnesota, Minneapolis, MN
