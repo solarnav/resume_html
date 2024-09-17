@@ -1,0 +1,59 @@
+KEYWORDS
+AI, Machine Learning, Bioinformatics, Computational Biology, Genomics, Transcriptomics, Proteomics, Algorithms, Statistics
+
+
+
+EXPERIENCE
+Postdoctoral Research Fellow, 2024-Present
+UTHealth, Houston, TX
+
+Supervised and guided 2 PhD candidates through their research
+
+
+Postdoctoral Associate, 2023-2024
+University of Minnesota, Minneapolis, MN
+Submitted 2 grant applications to the NSF and SBIR respectively
+
+
+
+Bioinformatics Intern, 2022
+Mayo Clinic, Rochester, MN
+Wrote 3 scripts in R and python to parse proteomic data
+Collaborated in weekly ex-vivo meetings with oncologists and bioinformaticians 
+
+
+Research Assistant, 2019-2023
+University of Minnesota, Minneapolis, MN
+
+
+Teaching Assistant, 2019
+University of Minnesota, Minneapolis, MN
+Gave 4 quizzes consisting of self-made questions over the semester
+Graded 100 final exams over 1 weekend during finals week
+Hosted weekly office hours to guide and teach undergraduate students 
+
+Community Advisor, 2017-2019
+University of Minnesota, Minneapolis, MN
+
+
+Peer Leader, 2016
+University of Minnesota, Minneapolis, MN
+
+
+
+Projects
+
+
+
+
+EDUCATION
+Doctor of Philosophy, 2023
+University of Minnesota, Minneapolis, MN
+Fields: Bioformatics, Computational Biology
+CGPA: 3.89
+
+Bachelor of Electrical Engineering, 2019
+University of Minnesota, Minneapolis, MN
+Graduated with High Distinction
+Minor: Computer Science
+CGPA: 3.94
